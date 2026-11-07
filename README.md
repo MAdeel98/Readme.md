@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm [Muhammad Adeel]
 
 BS Computer Science student with a growing interest in **Data Analytics, Data Science, and Machine Learning**. I learn best by building, so most of what I know comes from working on projects, making mistakes, and fixing them.
 
