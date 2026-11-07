@@ -51,7 +51,7 @@ I'm continuously working on improving in:
 
 ## Connect With Me
 
-- Email: your.email@example.com
+- Email: adeelnadeem918@gmail.com
 
 ---
 
