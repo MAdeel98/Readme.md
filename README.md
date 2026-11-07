@@ -36,35 +36,6 @@ I'm at a beginner-to-intermediate level and using this profile to document my le
 
 ---
 
-## Projects
-
-> I'm adding projects here as I complete them. Each one will include the problem, the dataset, the tools used, and what I learned.
-
-### 1. [Project Name]
-- **Goal:** One sentence on what the project is about
-- **Dataset:** Name and source of the dataset
-- **Tools:** Python, Pandas, Seaborn, etc.
-- **What I did:** Cleaning, EDA, visualizations, model, etc.
-- **Key takeaway:** What you found or learned
-- **Link:** [View repository](https://github.com/your-username/project-name)
-
-### 2. [Project Name]
-- **Goal:** 
-- **Dataset:** 
-- **Tools:** 
-- **What I did:** 
-- **Key takeaway:** 
-- **Link:** [View repository](https://github.com/your-username/project-name)
-
-### 3. [Project Name]
-- **Goal:** 
-- **Dataset:** 
-- **Tools:** 
-- **What I did:** 
-- **Key takeaway:** 
-- **Link:** [View repository](https://github.com/your-username/project-name)
-
----
 
 ## Currently Learning
 
@@ -77,22 +48,10 @@ I'm continuously working on improving in:
 - Model Evaluation
 - Real-world Data Analysis
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=default" />
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
 
 ## Connect With Me
 
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-profile)
 - Email: your.email@example.com
-- Portfolio: [your-portfolio-url](https://your-portfolio.com)
 
 ---
 
