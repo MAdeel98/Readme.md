@@ -49,7 +49,7 @@ I'm continuously working on improving in:
 - Real-world Data Analysis
 
 
-## Connect With Me
+## Connect With Me..
 
 - Email: adeelnadeem918@gmail.com
 
